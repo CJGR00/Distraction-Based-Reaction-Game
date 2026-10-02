@@ -4,6 +4,12 @@ A Tkinter-based Human–Computer Interaction laboratory project that measures re
 
 > **ITEC80D – Human Computer Interaction | Laboratory Exercise No. 2**
 
+## Screenshots
+
+### Main Interface
+
+![Distraction-Based Reaction Game - Main Interface](assets/screenshots/main-interface.png)
+
 ## Overview
 
 The **Distraction-Based Reaction Game** asks a participant to click a centre target as soon as it turns green and displays **“CLICK NOW!”**.
