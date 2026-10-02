@@ -8,7 +8,7 @@ A Tkinter-based Human–Computer Interaction laboratory project that measures re
 
 ### Main Interface
 
-![Distraction-Based Reaction Game - Main Interface](assets/screenshots/Main Interface.png)
+![Distraction-Based Reaction Game - Main Interface](assets/screenshots/MainInterface.png)
 
 ## Overview
 
